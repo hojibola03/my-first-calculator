@@ -1,0 +1,12 @@
+body {
+  background-color: aqua;
+}
+.container {
+  background-color: #fff;
+  border: 3px solid rgb(12, 11, 11);
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  color: black;
+}
